@@ -1,0 +1,33 @@
+tr,
+table {
+  border: 1px solid black;
+}
+span {
+  /* font-size: 30px; */
+  font-weight: 800;
+}
+#addButton {
+  color: white;
+  background-color: #00ff;
+  border: white;
+  font-size: 20px;
+  /* font-weight: 900; */
+}
+#totalBtn{
+    color: white;
+    background-color: green;
+    border: white;
+    border-radius: 5px;
+padding: 5px 8px;  
+margin: 5px 0;
+}
+.pointerMouse{
+    cursor: pointer;
+}
+th{
+    font-size: 20px;
+    color: gray;
+}
+h1{
+    color: blue;
+}
